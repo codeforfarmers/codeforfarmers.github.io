@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  
+
+  <title>Code For Farmers</title>
+  <generator uri="http://qwinixtech.com/">Qwinix Technologies</generator>
+    <icon>http://codeforfarmers.github.io/images/logos/cff-logo.png</icon>
+  <subtitle>A lightweight site for Farmers!</subtitle>
+  <link href="http://codeforfarmers.github.io/atom.xml" rel="self"/>
+  <link href="http://codeforfarmers.github.io/" rel="alternate" type="text/html"/>
+  <updated>2015-03-30T20:52:57+05:30</updated>
+  <id>http://www.codeforfarmers.org/</id>
+  <author>
+    <name>Darshan Puttannaiah</name>
+    <uri>http://www.codeforfarmers.org/</uri>
+    <email>dputtannaiah@qwinixtech.com</email>
+  </author>
+
+  
+  
+</feed>
