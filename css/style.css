@@ -129,7 +129,7 @@ fieldset[disabled] .btn-primary.active {
 		text-align:center;
 		width: 100%;
 		height: 108px;
-		background: #ffffff url('../images/logos/btn-down-arrow.png') no-repeat center center;
+		background: #ffffff url("../img/logos/btn-down-arrow.png") no-repeat center center;
 }
 
 .btn-scroll {
@@ -138,7 +138,7 @@ fieldset[disabled] .btn-primary.active {
 		text-align:center;
 		width: 105px;
 		height: 108px;
-		background: url("../images/logos/btn-down-arrow.png") no-repeat center center;
+		background: url("../img/logos/btn-down-arrow.png") no-repeat center center;
 }
 
 .btn-xl.img { top: 200px;}
@@ -286,7 +286,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../images/header-bg.jpg);
+    background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -352,13 +352,13 @@ section h2.section-heading {
 		padding-bottom: 35px;
     font-size: 48px;
 		display: block;
-		background: url("../images/logos/icon-divider.png") no-repeat 50% 95%;
+		background: url("../img/logos/icon-divider.png") no-repeat 50% 95%;
 }
 
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: "Vollkorn","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
@@ -687,7 +687,7 @@ section#aboutcover {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../images/about-bg.jpg);
+    background-image: url(../img/about-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -702,7 +702,7 @@ section#mapcover {
     color: #fff;
     background-attachment: scroll;
 		background-color: #70787d;
-    background-image: url(../images/map-image.png);
+    background-image: url(../img/map-image.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -800,7 +800,7 @@ ul.social-buttons li a {
     line-height: 85px;
     outline: 0;
     color: #fff;
-		background: url("../images/logos/diamond-bg.png") no-repeat top center;
+		background: url("../img/logos/diamond-bg.png") no-repeat top center;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
