@@ -916,3 +916,19 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #72bf44;
 }
+
+@media(max-width:767px) {
+    .navbar-brand {    
+          width: auto;
+        height: 10px;        
+        margin-bottom: 40px;
+    }
+   .navbar-default .navbar-toggle {
+    margin-top:20px;
+    margin-right:15px;
+}    
+   header .intro-text .img {
+      width: 280px;
+      height: auto;        
+}
+}
